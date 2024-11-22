@@ -74,7 +74,25 @@
                 <div class="section-title">
                     <h2>Novità</h2>
                 </div>
-                
+
+                <div class="row" data-aos="fade-up">
+                    <div class="col-md-5">
+                        <img src="assets/img/events/careerday2024/careerday5.png" class="img-fluid" alt="">
+                    </div>
+                    <div class="col-md-7 pt-4">
+                        <h3>CAREER DAY 2024</h3>
+                        <p>
+
+                            16 Novembre 2024, 14:00-18:00</br>
+                            Sala Congressi - Royal Garden Hotel, Assago, Milano
+                        </p>
+                        <ul>
+                            <a href="galleries/careerday2024.php" class="btn-get-started animate__animated animate__fadeInUp">Galleria</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
                 <div class="row" data-aos="fade-up">
                     <div class="col-md-5">
                         <img src="assets/img/events/aperinetwork2024/aperinetwork2024banner.png" class="img-fluid" alt="">
@@ -82,9 +100,9 @@
                     <div class="col-md-7 pt-4">
                         <h3>SUMMER APERINETWORK 2024</h3>
                         <p>
-                           
-                       19 Luglio 2024, 18:30</br>
-Sede:  Rebel Asian Tapas & Cocktail, Via Donatello 2, Milano
+
+                            19 Luglio 2024, 18:30</br>
+                            Sede: Rebel Asian Tapas & Cocktail, Via Donatello 2, Milano
                         </p>
                         <ul>
                             <a href="galleries/aperinetwork2024.php" class="btn-get-started animate__animated animate__fadeInUp">Galleria</a>
@@ -92,8 +110,8 @@ Sede:  Rebel Asian Tapas & Cocktail, Via Donatello 2, Milano
                         </ul>
                     </div>
                 </div>
-                
-                
+
+
                 <div class="row" data-aos="fade-up">
                     <div class="col-md-5">
                         <img src="assets/img/events/zerotobeyond2024/zerotobeyond_banner.png" class="img-fluid" alt="">
@@ -101,30 +119,12 @@ Sede:  Rebel Asian Tapas & Cocktail, Via Donatello 2, Milano
                     <div class="col-md-7 pt-4">
                         <h3>From Zero To Beyond 2024</h3>
                         <p>
-                           
-                       27 Giugno 2024, 18:30</br>
-Sede:  Auditorium WAO C30, Viale Cassala 30, Milano
+
+                            27 Giugno 2024, 18:30</br>
+                            Sede: Auditorium WAO C30, Viale Cassala 30, Milano
                         </p>
                         <ul>
                             <a href="galleries/zerotobeyond2024.php" class="btn-get-started animate__animated animate__fadeInUp">Galleria</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                
-                    <div class="row" data-aos="fade-up">
-                    <div class="col-md-5">
-                        <img src="assets/img/events/uk_networking2024/uknetworking2024.png" class="img-fluid" alt="">
-                    </div>
-                    <div class="col-md-7 pt-4">
-                        <h3>Networking London European Chinese Event 2024</h3>
-                        <p>
-                           
-                       12 Aprile 2024, 19:00</br>
-Sede:  The Listing, 27 Bush Ln, London EC4R 2024
-                        </p>
-                        <ul>
-                            <a href="galleries/uknetworking2024.php" class="btn-get-started animate__animated animate__fadeInUp">Galleria</a>
                             </li>
                         </ul>
                     </div>
@@ -236,7 +236,7 @@ Sede:  The Listing, 27 Bush Ln, London EC4R 2024
                                     </div>
                                 </div>
                             </div>
-                            
+
                             <div class="testimonial-item">
                                 <div class="row">
                                     <div class="col">

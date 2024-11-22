@@ -54,10 +54,32 @@
 
                 </div>
 
-
-
                 <div class="row portfolio-container" data-aos="fade-up" data-aos-easing="ease-in-out" data-aos-duration="500">
-                    
+
+                    <div class="col-lg-12 filter-app">
+                        <hr class="mx-auto" style="height: 10px;width: 100px;color: darkgray">
+                        <div class="col-lg-6 col-md-6 mx-auto">
+                            <div class="portfolio-item">
+                                <img src="assets/img/events/careerday2024/careerday5.png" class="img-fluid" alt="">
+                                <div class="portfolio-info">
+                                    <div>
+                                        <a href="assets/img/events/careerday2024/careerday5.png" data-gall="portfolioGallery" class="venobox" title="App 1"><i class="bx bx-plus"></i></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-12">
+                            <h4 class="text-center">CAREER DAY 2024</h4>
+                            <h6 class="text-center">16 Novembre 2024, 14:00-18:00<br />
+                                Sede: Sala Congressi - Royal Garden Hotel, Assago, Milano<br />
+                                <br />
+                                <a href="galleries/careerday2024.php" class="btn-get-started animate__animated animate__fadeInUp">Galleria</a>
+                            </h6>
+                        </div>
+                    </div>
+
+
+
                     <div class="col-lg-12 filter-app">
                         <hr class="mx-auto" style="height: 10px;width: 100px;color: darkgray">
                         <div class="col-lg-6 col-md-6 mx-auto">
@@ -73,14 +95,14 @@
                         <div class="col-lg-12">
                             <h4 class="text-center">APERINETWORK 2024</h4>
                             <h6 class="text-center">19 Luglio 2024, 18:30<br />
-                            Sede: Rebel Asian Tapas & Cocktail, Via Donatello 2, Milano<br />
+                                Sede: Rebel Asian Tapas & Cocktail, Via Donatello 2, Milano<br />
                                 <br />
                                 <a href="galleries/aperinetwork2024.php" class="btn-get-started animate__animated animate__fadeInUp">Galleria</a>
                             </h6>
                         </div>
                     </div>
-                    
-                     <div class="col-lg-12 filter-app">
+
+                    <div class="col-lg-12 filter-app">
                         <hr class="mx-auto" style="height: 10px;width: 100px;color: darkgray">
                         <div class="col-lg-6 col-md-6 mx-auto">
                             <div class="portfolio-item">
@@ -95,15 +117,15 @@
                         <div class="col-lg-12">
                             <h4 class="text-center">Networking London European Chinese Event 2024</h4>
                             <h6 class="text-center">12 Aprile 2024, 19:00<br />
-                            Sede: The Listing, 27 Bush Ln, London EC4R 2024<br />
+                                Sede: The Listing, 27 Bush Ln, London EC4R 2024<br />
                                 <br />
                                 <a href="galleries/uknetworking2024.php" class="btn-get-started animate__animated animate__fadeInUp">Galleria</a>
                             </h6>
                         </div>
                     </div>
-                    
-                    
-                          <div class="col-lg-12 filter-app">
+
+
+                    <div class="col-lg-12 filter-app">
                         <hr class="mx-auto" style="height: 10px;width: 100px;color: darkgray">
                         <div class="col-lg-6 col-md-6 mx-auto">
                             <div class="portfolio-item">
@@ -118,14 +140,14 @@
                         <div class="col-lg-12">
                             <h4 class="text-center">From Zero To Beyond 2024</h4>
                             <h6 class="text-center">27 Giugno 2024, 18:30<br />
-                            Sede: Auditorium WAO C30, Viale Cassala 30, Milano<br />
+                                Sede: Auditorium WAO C30, Viale Cassala 30, Milano<br />
                                 <br />
                                 <a href="galleries/zerotobeyond2024.php" class="btn-get-started animate__animated animate__fadeInUp">Galleria</a>
                             </h6>
                         </div>
                     </div>
-                    
-                     <div class="col-lg-12 filter-app">
+
+                    <div class="col-lg-12 filter-app">
                         <hr class="mx-auto" style="height: 10px;width: 100px;color: darkgray">
                         <div class="col-lg-6 col-md-6 mx-auto">
                             <div class="portfolio-item">
@@ -140,14 +162,14 @@
                         <div class="col-lg-12">
                             <h4 class="text-center">Networking London European Chinese Event 2024</h4>
                             <h6 class="text-center">12 Aprile 2024, 19:00<br />
-                            Sede: The Listing, 27 Bush Ln, London EC4R 2024<br />
+                                Sede: The Listing, 27 Bush Ln, London EC4R 2024<br />
                                 <br />
                                 <a href="galleries/uknetworking2024.php" class="btn-get-started animate__animated animate__fadeInUp">Galleria</a>
                             </h6>
                         </div>
                     </div>
-                    
-                     <div class="col-lg-12 filter-app">
+
+                    <div class="col-lg-12 filter-app">
                         <hr class="mx-auto" style="height: 10px;width: 100px;color: darkgray">
                         <div class="col-lg-6 col-md-6 mx-auto">
                             <div class="portfolio-item">
@@ -162,14 +184,14 @@
                         <div class="col-lg-12">
                             <h4 class="text-center">Impact She 2024</h4>
                             <h6 class="text-center">8 Marzo 2023, 18:30-20:00<br />
-                            Sede: Grattacielo Pirelli, Sala Pirelli in Via Filzi 22, Milano<br />
+                                Sede: Grattacielo Pirelli, Sala Pirelli in Via Filzi 22, Milano<br />
                                 <br />
                                 <a href="galleries/impactshe2024.php" class="btn-get-started animate__animated animate__fadeInUp">Galleria</a>
                             </h6>
                         </div>
                     </div>
-                     
-                     <div class="col-lg-12 filter-app">
+
+                    <div class="col-lg-12 filter-app">
                         <hr class="mx-auto" style="height: 10px;width: 100px;color: darkgray">
                         <div class="col-lg-6 col-md-6 mx-auto">
                             <div class="portfolio-item">
@@ -184,14 +206,14 @@
                         <div class="col-lg-12">
                             <h4 class="text-center">China Hub - EBC Networking Mixer</h4>
                             <h6 class="text-center">Friday 17th NOV 2023, 20:30<br />
-                            Sede: North Suzhou Road no. 128, Hongkou District, Shanghai<br />
+                                Sede: North Suzhou Road no. 128, Hongkou District, Shanghai<br />
                                 <br />
                                 <a href="galleries/chinahub_sh2023.php" class="btn-get-started animate__animated animate__fadeInUp">Galleria</a>
                             </h6>
                         </div>
                     </div>
-                    
-                     <div class="col-lg-12 filter-app">
+
+                    <div class="col-lg-12 filter-app">
                         <hr class="mx-auto" style="height: 10px;width: 100px;color: darkgray">
                         <div class="col-lg-6 col-md-6 mx-auto">
                             <div class="portfolio-item">
@@ -206,14 +228,14 @@
                         <div class="col-lg-12">
                             <h4 class="text-center">Networking Event</h4>
                             <h6 class="text-center">Friday 20th OCT 2023, 19:30<br />
-                            Sede: The Moniker - 25, Fenchurch Ave, London, EC3M 5AD<br />
+                                Sede: The Moniker - 25, Fenchurch Ave, London, EC3M 5AD<br />
                                 <br />
                                 <a href="galleries/uk_networking2023.php" class="btn-get-started animate__animated animate__fadeInUp">Galleria</a>
-                                
+
                             </h6>
                         </div>
                     </div>
-                    
+
                     <div class="col-lg-12 filter-app">
                         <hr class="mx-auto" style="height: 10px;width: 100px;color: darkgray">
                         <div class="col-lg-6 col-md-6 mx-auto">
@@ -229,13 +251,13 @@
                         <div class="col-lg-12">
                             <h4 class="text-center">Aperinetwork - Work In Asia</h4>
                             <h6 class="text-center">Giovedì 12 Ottobre 2023, ore 19:30<br />
-                            Sede: Yguana Cafè - Via Papa Gregorio XIV, 16, Milano<br />
+                                Sede: Yguana Cafè - Via Papa Gregorio XIV, 16, Milano<br />
                                 Posti Disponibili Limitati con Prenotazione Obbligatoria <br />
-                                
+
                             </h6>
                         </div>
                     </div>
-                    
+
                     <div class="col-lg-12 filter-app">
                         <hr class="mx-auto" style="height: 10px;width: 100px;color: darkgray">
                         <div class="col-lg-6 col-md-6 mx-auto">
@@ -251,7 +273,7 @@
                         <div class="col-lg-12">
                             <h4 class="text-center">Aperinetwork Rome</h4>
                             <h6 class="text-center"> Sabato 15 Luglio, ore 19:00<br />
-                            Sede: Hotel The Hive - Via Torino 6, 00184 ROMA (RM)<br />
+                                Sede: Hotel The Hive - Via Torino 6, 00184 ROMA (RM)<br />
                                 Aperte le registrazioni fino ad esaurimento posti! <br />
                                 <a href="galleries/aperinetworkrome2023.php">Galleria</a>
                             </h6>
@@ -260,7 +282,7 @@
 
                     <div class="col-lg-12 filter-app">
                         <div class="col-lg-6 col-md-6 mx-auto">
-                             <hr class="mx-auto" style="height: 10px;width: 100px;color: darkgray">
+                            <hr class="mx-auto" style="height: 10px;width: 100px;color: darkgray">
                             <div class="portfolio-item">
                                 <img src="assets/img/events/breakingboundaries_banner.jpg" class="img-fluid" alt="">
                                 <div class="portfolio-info">
@@ -273,12 +295,12 @@
                         <div class="col-lg-12">
                             <h4 class="text-center">Breaking Boundaries 2023</h4>
                             <h6 class="text-center">06 Maggio 2023 dalle 16:00<br />
-                            Sede: Via Arcivescovo Calabiana 6, Milano 20139<br />
+                                Sede: Via Arcivescovo Calabiana 6, Milano 20139<br />
                                 <a href="galleries/breakingboundaries2023.php" class="btn-get-started animate__animated animate__fadeInUp">Galleria</a>
                             </h6>
                         </div>
                     </div>
-                    
+
                     <div class="col-lg-12 filter-app">
                         <div class="col-lg-6 col-md-6 mx-auto">
                             <hr class="mx-auto" style="height: 10px;width: 100px;color: darkgray">
@@ -294,15 +316,15 @@
                         <div class="col-lg-12">
                             <h4 class="text-center">ImpacthSHE 2023</h4>
                             <h6 class="text-center">17 Marzo 2023 dalle 18:00 alle 20:30<br />
-                            Sede: Grattacielo Pirelli, Via Fabio Filzi 22 (MI) – Sala Pirelli<br />
+                                Sede: Grattacielo Pirelli, Via Fabio Filzi 22 (MI) – Sala Pirelli<br />
                                 <a href="galleries/impactshe2023.php" class="btn-get-started animate__animated animate__fadeInUp">Galleria</a>
                             </h6>
                         </div>
                     </div>
 
-                    
-                     <div class="col-lg-12 filter-app">
-                          <hr class="mx-auto" style="height: 10px;width: 100px;color: darkgray">
+
+                    <div class="col-lg-12 filter-app">
+                        <hr class="mx-auto" style="height: 10px;width: 100px;color: darkgray">
                         <div class="col-lg-6 col-md-6 mx-auto">
                             <div class="portfolio-item">
                                 <img src="assets/img/events/networkingdinner2022/locandinadinner2022" class="img-fluid" alt="">
@@ -316,15 +338,15 @@
                         <div class="col-lg-12">
                             <h4 class="text-center">Networking Dinner 2022</h4>
                             <h6 class="text-center">15 DICEMBRE 2022<br />
-                            Sede: Reiwa - Via Rutilia 16, Milano<br />
+                                Sede: Reiwa - Via Rutilia 16, Milano<br />
                                 <a href="galleries/networkingdinner2022.php" class="btn-get-started animate__animated animate__fadeInUp">Galleria</a>
                             </h6>
                         </div>
                     </div>
 
-                    
-                     <div class="col-lg-12 filter-app">
-                          <hr class="mx-auto" style="height: 10px;width: 100px;color: darkgray">
+
+                    <div class="col-lg-12 filter-app">
+                        <hr class="mx-auto" style="height: 10px;width: 100px;color: darkgray">
                         <div class="col-lg-6 col-md-6 mx-auto">
                             <div class="portfolio-item">
                                 <img src="assets/img/events/networkingshanghai2022/icpn_shanghai.png" class="img-fluid" alt="">
@@ -338,13 +360,13 @@
                         <div class="col-lg-12">
                             <h4 class="text-center">Networking Mixer - Future Career Perspectives</h4>
                             <h6 class="text-center">18 NOVEMBRE 2022<br />
-                            Sede: The Captain, No 37 Fuzhou Road, 6th floor, Shanghai<br />
-                               <a href="galleries/networkingshanghai2022.php" class="btn-get-started animate__animated animate__fadeInUp">Galleria</a>
+                                Sede: The Captain, No 37 Fuzhou Road, 6th floor, Shanghai<br />
+                                <a href="galleries/networkingshanghai2022.php" class="btn-get-started animate__animated animate__fadeInUp">Galleria</a>
                             </h6>
                         </div>
                     </div>
 
-                     <div class="col-lg-12 filter-app">
+                    <div class="col-lg-12 filter-app">
                         <hr class="mx-auto" style="height: 10px;width: 100px;color: darkgray">
                         <div class="col-lg-6 col-md-6 mx-auto">
                             <div class="portfolio-item">
@@ -359,13 +381,13 @@
                         <div class="col-lg-12">
                             <h4 class="text-center">Networking Event</h4>
                             <h6 class="text-center">23 LUGLIO 2022<br />
-                            Sede: Agave, Via Privata Raffaello Morghen, 3, 20158 Milano MI<br />
-                               <a href="galleries/networkingevent2022.php" class="btn-get-started animate__animated animate__fadeInUp">Galleria</a>
+                                Sede: Agave, Via Privata Raffaello Morghen, 3, 20158 Milano MI<br />
+                                <a href="galleries/networkingevent2022.php" class="btn-get-started animate__animated animate__fadeInUp">Galleria</a>
                             </h6>
                         </div>
 
                     </div>
-                    
+
                     <div class="col-lg-12 filter-app">
                         <hr class="mx-auto" style="height: 10px;width: 100px;color: darkgray">
                         <div class="col-lg-6 col-md-6 mx-auto">
@@ -382,7 +404,7 @@
                             <h4 class="text-center">ICPNxHer 2° Edition</h4>
                             <h6 class="text-center">8 MARZO 2022<br />
                                 <a href="https://youtu.be/xLiKVWwe37s" class="btn-get-started animate__animated animate__fadeInUp">Highlights</a><br>
-                                
+
                             </h6>
                         </div>
                     </div>
